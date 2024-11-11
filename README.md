@@ -18,7 +18,7 @@ To run the Supermarket Billing System:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/supermarket-billing-system.git
+   git clone https://github.com/prabhsharan1/supermarket_billing_system.git
 
    ```
 
